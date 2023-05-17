@@ -1,0 +1,93 @@
+img {
+    width: 30%;
+}
+#background {
+    height: 725px;
+}
+body {
+    background-color: #fcfbfb; 
+}
+header {
+    background-color:rgba(41, 63, 26, 0.7);
+}
+nav a:hover {
+    background-color: black;
+    color: #d9c2a3;
+}
+.home-title {
+    background-color: rgb(218, 196, 196);
+    color: rgb(31, 31, 100);
+}
+h4 {
+    background-color: rgb(167, 102, 173);
+    color: rgb(13, 13, 17);
+}
+.book, .join {
+    background-color: rgb(221, 215, 182);
+    color: rgb(20, 7, 26);
+    text-align: center;
+    text-decoration: none;
+}
+.book:hover, .join:hover {
+    background-color: rgb(219, 109, 5);
+    color: #0e0c0c;
+}
+.msg h2 {
+    background-color: #d9c2a3;
+    color: black;
+}
+.msg p {
+    color: rgb(70, 70, 36);
+}
+footer {
+    background-color: rgb(219, 223, 230);
+    color: rgb(172, 7, 7);
+}
+.icon {
+    width: 80px;
+}
+#hero-img {
+    width: 60%;
+}
+.logo {
+    width: 80px;
+}
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}
+footer a {
+    text-align: center;
+    color: rgb(114, 166, 214);
+    text-decoration: none;
+}
+footer p a:hover {
+    text-decoration: underline;
+} 
+footer p {
+    font-size: 1.2em;
+}
+#hero-msg h1, #hero-msg h4 {
+    text-align: center;
+}
+.button-box {
+    text-align: center;
+}
+main section {
+    text-align: center;
+}
+footer a:hover {
+    color: aqua;
+}
+h1 {
+    text-align: center;
+}
+nav, footer {
+    text-align: center;
+}
+main p {
+    width: 80%;
+    margin: 50px auto;
+    text-align: center;
+}
