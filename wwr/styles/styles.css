@@ -47,7 +47,7 @@ footer {
     width: 80px;
 }
 #hero-img {
-    width: 60%;
+    width: 100%;
 }
 .logo {
     width: 80px;
@@ -90,4 +90,14 @@ main p {
     width: 80%;
     margin: 50px auto;
     text-align: center;
+}
+.social img {
+    width: 80px;
+    text-align: center;
+}
+.card-img {
+    width: 200px;
+}
+#content {
+    width: 1600px;
 }
