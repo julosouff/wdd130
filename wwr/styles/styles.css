@@ -1,103 +1,173 @@
-img {
-    width: 30%;
-}
 #background {
+    width: 50%;
     height: 725px;
+    background-color: gray;
 }
+
+#logo_link{
+    padding-top: 5px;
+}
+
+.rivers-card, .camping-card, .rapids-card{  
+    margin: 20px 0;
+}
+
 body {
-    background-color: #fcfbfb; 
+    background-color: #fcfbfb;
+    font-size: 22px; 
+    font-family: Raleway, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
 }
+
+.logo{
+    width: 150px;
+}
+
+h2 {
+    margin: 0;
+}
+
 header {
     background-color:rgba(41, 63, 26, 0.7);
 }
+
 nav a:hover {
-    background-color: black;
+    background-color: rgb(82, 100, 89);
     color: #d9c2a3;
 }
-.home-title {
-    background-color: rgb(218, 196, 196);
-    color: rgb(31, 31, 100);
+
+.mountains{
+    width: 50%;
 }
+
+.home-title {
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: 2em;
+    margin-top: 10px;
+}
+     
 h4 {
     background-color: rgb(167, 102, 173);
     color: rgb(13, 13, 17);
 }
+
 .book, .join {
-    background-color: rgb(221, 215, 182);
-    color: rgb(20, 7, 26);
-    text-align: center;
+    background-color: #d9c2a3;
+    color: black;
     text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
 }
+
 .book:hover, .join:hover {
     background-color: rgb(219, 109, 5);
     color: #0e0c0c;
 }
-.msg h2 {
-    background-color: #d9c2a3;
-    color: black;
+
+.msg {
+    padding: 35px;
+    background-color: #6f7364;
 }
+
+.msg h2 {
+    line-height: 1.5em;
+}
+
 .msg p {
     color: rgb(70, 70, 36);
+    padding-bottom: 15px;
 }
+
 footer {
-    background-color: rgb(219, 223, 230);
+    background-color: #6f7364;
     color: rgb(172, 7, 7);
+    padding: 25px 50px;
+    margin-top: 200px;
 }
+
 .icon {
     width: 80px;
+    padding-top: 10px;
 }
+
+#hero{
+    border: solid 1px black;
+    padding-bottom: 20px;
+}
+
 #hero-img {
+    width: 50%;
+}
+
+nav{
     width: 100%;
-}
-.logo {
-    width: 80px;
-}
+   }
+
 nav a {
     text-align: center;
     color: #fcfbfb;
     text-decoration: none;
+    padding: 10px;
 }
+
 footer a {
     text-align: center;
     color: rgb(114, 166, 214);
     text-decoration: none;
 }
+
 footer p a:hover {
     text-decoration: underline;
-} 
+}
+
 footer p {
     font-size: 1.2em;
 }
+
 #hero-msg h1, #hero-msg h4 {
     text-align: center;
 }
+
 .button-box {
     text-align: center;
 }
+
 main section {
     text-align: center;
 }
+
 footer a:hover {
     color: aqua;
 }
+
 h1 {
     text-align: center;
 }
+
 nav, footer {
     text-align: center;
 }
+
 main p {
     width: 80%;
     margin: 50px auto;
     text-align: center;
 }
+
 .social img {
     width: 80px;
     text-align: center;
+    padding-top: 15px;
 }
+
 .card-img {
     width: 200px;
+    border: 10px solid #d9c2a3;
 }
+
 #content {
     width: 1600px;
 }
